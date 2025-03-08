@@ -1,0 +1,85 @@
+
+#container{
+    width: 1000px  ;
+    height: 1740px;
+    border: 5px solid black;
+    margin-left: 300px;
+    background-image: url('back\ image.jpg');
+}
+.para1{
+    margin-left: 180px;
+margin-top: -25px;
+}
+.table1{
+    border: 2px solid black;
+    margin-left: 30px;
+}
+ table,td, th {
+    border: 1px solid  black;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 7px;
+   
+}
+.center{
+ margin-top: 2px;
+}
+.photo{
+    margin-left: 730px;
+    margin-top: -70px;
+}
+.line1{
+    margin-left: 240px;
+    margin-top: -50px;
+}
+.line2{
+    margin-left: 30px;
+}
+.para2{
+    margin-left: 28px;
+    font-size: 20px;
+    margin-top: -10px;
+}
+.para3{
+    margin-left: 28px;
+    font-size: 20px;
+    margin-top: -13px;
+}
+.para4{
+    margin-left: 28px;
+    font-size: 20px;
+    margin-top: -13px;
+}
+.para5{
+    margin-left: 28px;
+    font-size: 20px;
+    margin-top: -15px;
+}
+.para6{
+    margin-left: 28px;
+    font-size: 20px;
+    margin-top: -15px;
+}
+.table-head{
+    font-size: 16px;
+}
+.row1{
+    font-size: 18px;
+}
+.row2{
+    font-size: 20px;
+}
+.para7{
+   margin-top: 10px;
+    margin-left: 28px;
+}
+.heading6{
+    margin-left: 27px;
+    margin-top: -10px;
+}
+.QR{
+    width: 250px;
+    height: 250px;
+   margin-left: 740px;
+   margin-top: -215px;
+}
